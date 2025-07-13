@@ -13,8 +13,8 @@ A simple and user-friendly weather application that allows users to check real-t
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript  
-- **API**: [OpenWeatherMap API](https://openweathermap.org/api)  
+- **Frontend**: HTML, CSS, JavaScript , React
+- **API**: X-RapidAPI
 
 
 ## 📦 Installation
